@@ -21,3 +21,13 @@ Open a terminal and run the command:
   PRIVATE_KEY=Your_private_key
   INFURA_API_KEY=Your_API_key_from_Infura
   ```
+
+3. Launch your application:
+
+Execute your script in the terminal:
+  ```bash
+  node main.js
+  ```
+
+4. Security:
+   Ensure that the .env file is stored securely and prevent it from becoming open source.
