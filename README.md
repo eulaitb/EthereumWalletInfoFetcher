@@ -30,4 +30,4 @@ Execute your script in the terminal:
   ```
 
 4. Security:
-   Ensure that the .env file is stored securely and prevent it from becoming open source.
+   Ensure that the `.env` file is stored securely and prevent it from becoming open source.
